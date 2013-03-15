@@ -1,0 +1,2 @@
+set solib-search-path /home/user/workspaces/EclipseProjects/androidworkspace/GetPeaks/obj/local/armeabi
+directory /home/user/Frameworks/android-ndk/platforms/android-9/arch-arm/usr/include /home/user/workspaces/EclipseProjects/androidworkspace/GetPeaks/jni /home/user/Frameworks/android-ndk/sources/cxx-stl/system

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="website_address">www.tempaddress.wojda.com</string>
+    <string name="hello">Zalążki projektu</string>
+    
+    <string name="app_name">Get Peaks</string>
+    <string name="main_menu_label">Menu Główne programu</string>
+    <string name="settings_label">Ustawienia</string>
+    <string name="help_label">Pomoc</string>
+    <string name="import_activity_label">Import wierzchołków</string>
+
+    <string name="help_button_label">Pomoc</string>
+    <string name="settings_button_label">Ustawienia</string>
+    <string name="start_button_label">Start</string>
+    <string name="start_edge_detection_button_label">Start edge detection</string>
+    <string name="sensor_button_laberl">Sensor</string>
+    <string name="import_button_label">Importuj</string>
+    
+    <!-- Dialogs -->
+    <string name="camera_error_dialog_msg">Problem z aparatem urządzenia</string>
+    <string name="gps_unavailable_dialog_msg">Urządzenie nie posiada GPS</string>
+    <string name="compass_unavailable_dialog_msg">Urządzenie nie posiada kompasu</string>
+    <string name="gps_off_dialog_question">Gps jest wyłączony. Czy chcesz go teraz włączyć?</string>
+    
+    <!-- image content descriptions -->
+    <string name="main_menu_backgroung_description">Tło głównego menu aplikacji</string>
+
+</resources>

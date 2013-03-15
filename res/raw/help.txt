@@ -1,0 +1,1 @@
+Czytasz właśnie plik pomocy programu getPeaks. Jest to program rozpoznający szczyty górskie.

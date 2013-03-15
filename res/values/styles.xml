@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!--Poniżej- styl dla wszystkich tekstów w aplikacji, 
+    jeżeli chcesz zmienić kolor tekstu w app to zrób to tutaj, zmiany będą globalne -->
+    <style name="main_text_filed_style">
+        <item name="android:textColor">@color/main_text_color</item>
+        <item name="android:textSize">@dimen/main_text</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    
+    <style name="activities_style">
+        <item name="android:background">@color/background_color</item>
+    </style>
+    
+</resources>
